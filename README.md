@@ -7,7 +7,6 @@ https://tosicoding.tistory.com/
 
 ## 💻Using Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khada100)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seopia)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆Awards
 
 ▶ 2024.02.29 하이미디어 아카데미 웹 개발 프로젝트 장려상
